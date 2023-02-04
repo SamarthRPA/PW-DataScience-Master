@@ -1,0 +1,26 @@
+Python Assignment - 1 - 29th Jan 2023
+Answers
+1.Python Programming language is developed by 'Guido Van Rossum'.
+2.Python supports object oriented programming and structured programming.
+3.Python is case sensitive language.
+4.The correct extension of '.py'
+5.Python is interpreted language.
+6.print(variable1)
+7.The single line comment > #
+8. To check version of python
+import sys
+print(sys.version)
+9.using def python allowed to define function.
+10.pip stands for Preferred Installer Program
+11.any(),abs(),bool(),bites()
+12.Max possible length of identifier > 79
+13.what are benefits of Python
+a.Powerful Language
+b.Ready Made stuff
+c.Ease way of use
+d.Program Portability
+e.Developer Productivity
+f.support Vast Libraries.
+14.NO Idea how memory managed ?
+15.Python installatin is free from website and path variable option comes while installing
+16.Indentation is reauired in Python
